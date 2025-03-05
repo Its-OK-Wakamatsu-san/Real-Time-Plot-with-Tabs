@@ -10,11 +10,12 @@ Real-Time Plot with Tabs on Python.
 ### Function
 Real-Time[^1] & multi-plot on tabs.
 
-#### PREVAC_TM14_read_module.py
+#### Tab_Plot_Tkinter.py
 1. From Control Tab, Push 'start plotting' button
 2. Plot on Graph1 Tab and Graph2 Tab, sequencially.
 
- ![ Example ]
+ ![ Example ]![image](https://github.com/user-attachments/assets/9ba036d5-686e-4a59-b9bd-923ae4d34c06)
+
 
 ### Hardware Environment
  1. PC: windows PC
