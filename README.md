@@ -10,7 +10,7 @@ Real-Time Plot with Tabs on Python.
 ### Function
 Real-Time[^1] & multi-plot on tabs.
 
-#### Tab_Plot_Tkinter.py
+### Tab_Plot_Tkinter.py
 1. From Control Tab, Push 'Start Plotting' button
 2. Plot on Graph1 Tab and Graph2 Tab, sequencially.
 
@@ -29,4 +29,4 @@ Real-Time[^1] & multi-plot on tabs.
   1. None
      
 ### Rerated Webpages
-[^1]: [Real-Time plot (from my own page)](https://github.com/Its-OK-Wakamatsu-san/Exact_time_interval_using_-time.sleep-)
+[^1]: [Exact time interval on Python (from my own page)](https://github.com/Its-OK-Wakamatsu-san/Exact_time_interval_using_-time.sleep-)
