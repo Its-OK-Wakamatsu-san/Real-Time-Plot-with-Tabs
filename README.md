@@ -5,14 +5,14 @@ Real-Time Plot with Tabs on Python. It's almost all parts were made by GitHub Co
 Python , Real-Time Plot , Plot on tabs , multi-plot
 
 ## Overview
-Real-Time Plot with Tabs on Python. It's almost all parts were made by GitHub Copilot.
+Real-Time Plot with Tabs on Python.
 
 ### Function
-Real-Time  multi-plot on tabs.
+Real-Time[^1] & multi-plot on tabs.
 
 #### PREVAC_TM14_read_module.py
 1. From Control Tab, Push 'start plotting' button
-2. Plot on Graph1 Tab and Graph2 Tab, sequenciall. [^1]
+2. Plot on Graph1 Tab and Graph2 Tab, sequencially.
 
  ![ Example ]
 
@@ -22,10 +22,10 @@ Real-Time  multi-plot on tabs.
 ### Software Environment
   1. OS: Windows11
   2. Python: Version 3.9.13
-  3. Libraries: tkinter, matplotlib, 
+  3. Libraries: matplotlib, 
      
 ### Known issue
   1. None
      
 ### Rerated Webpages
-[^1]: [PREVAC TM13/TM14](https://prevac.eu/product/thickness-monitors-tm13-tm14/)
+[^1]: [Real-Time plot (from my own page)](https://github.com/Its-OK-Wakamatsu-san/Exact_time_interval_using_-time.sleep-)
