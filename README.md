@@ -12,9 +12,8 @@ Real-Time[^1] & multi-plot on tabs.
 
 ### Tab_Plot_Tkinter.py
 1. From 'Control' Tab, Push 'Start Plotting' button
-2. Plot on 'Graph1' Tab and 'Graph2' Tab, sequencially.
-
 ![image](https://github.com/user-attachments/assets/9ba036d5-686e-4a59-b9bd-923ae4d34c06)
+2. Plot on 'Graph1' Tab and 'Graph2' Tab, sequencially.
 ![image](https://github.com/user-attachments/assets/49489af3-0c0c-4bf5-86c0-19d6ecc3d725)
 
 
