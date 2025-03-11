@@ -13,9 +13,6 @@ import matplotlib.pyplot as plt
 class RealTimePlot:
     def __init__(self, root):
 
-        #constants initialization
-        self.eps_t = 0.001
-
         self.root = root
         self.root.title("Real-Time Plot with Tabs")
 
@@ -108,9 +105,7 @@ class RealTimePlot:
         self.time_old = time_instant
 
         # adjust rest_time
-        self.rest_time += (self.t_interval_init - turnaround_time)
-        if self.rest_time <= self.eps_t:                         # to prevent negative time
-            self.rest_time =self.eps_t
+        self.rest_time  = 1 - (elapsed_time % 1)
         print('elapsed_time =', f'{elapsed_time:.3f}')
         print(' turnaround_time =', f'{turnaround_time:.3f}',',  rest_time = ',  f'{self.rest_time:.3f}')
 
